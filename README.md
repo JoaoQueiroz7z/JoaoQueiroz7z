@@ -5,21 +5,21 @@
 Olá! Me chamo João Queiroz, sou estudante de Ciência da Computação na UNIFESO e estou me dedicando para me tornar um desenvolvedor Fullstack. Atualmente, estou focado em aprender e aprimorar minhas habilidades em tecnologias como JavaScript, React, Node.js e bancos de dados, tanto SQL quanto NoSQL. Meu objetivo é dominar tanto o desenvolvimento frontend quanto o backend para criar soluções completas e eficientes. Além dos estudos acadêmicos, trabalho em projetos pessoais para aplicar meus conhecimentos e evoluir na prática. Estou sempre aberto a novas oportunidades, colaborações e desafios que me permitam crescer profissionalmente. Se quiser trocar ideias ou conhecer mais sobre meu trabalho, fique à vontade para entrar em contato!
 
 <p align="left">
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxjXqrlcvcxRcKCctMddwSMwCNNjPTmrLDdskjdtfzFrMHFlbfmgZQrVvTmrrqBtQZvtTr">
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxjXqrlcvcxRcKCctMddwSMwCNNjPTmrLDdskjdtfzFrMHFlbfmgZQrVvTmrrqBtQZvtTr" target_blank>
         <img 
             alt="email" 
             title="Me chame no email!" 
             src="https://custom-icon-badges.demolab.com/badge/Email-gray.svg?logo=mail&logoColor=white&style=for-the-badge&labelColor=gray"
         />
     </a>
-    <a href="https://www.linkedin.com/in/joão-queiroz7z/">
+    <a href="https://www.linkedin.com/in/joão-queiroz7z/" target_blank>
         <img 
             alt="linkedin" 
             title="Link para Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-gray.svg?logo=pape&logoColor=white&style=for-the-badge&labelColor=gray"
         />
     </a> 
-    <a href="https://github.com/JoaoQueiroz7z">
+    <a href="https://github.com/JoaoQueiroz7z" target_blank>
         <img 
             alt="profile" 
             title="Meu perfil GitHub" 
