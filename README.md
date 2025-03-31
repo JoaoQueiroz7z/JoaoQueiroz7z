@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/ddc2259a-6298-494e-9225-d5ae5fbbe4c6)
+
 ## 👩🏻‍💻 João Queiroz
 
 **`Desenvolvedor FullStack`**
