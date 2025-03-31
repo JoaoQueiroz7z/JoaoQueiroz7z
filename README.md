@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/ddc2259a-6298-494e-9225-d5ae5fbbe4c6)
+<div>
+    <img src="https://github.com/user-attachments/assets/ddc2259a-6298-494e-9225-d5ae5fbbe4c6" width="700px", heigh="300px">
+</div>
 
 ## 👩🏻‍💻 João Queiroz
 
