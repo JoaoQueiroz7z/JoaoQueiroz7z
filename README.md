@@ -1,5 +1,5 @@
 <div>
-    <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/user-attachments/assets/ddc2259a-6298-494e-9225-d5ae5fbbe4c6" width="700" height="300">
+    <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/user-attachments/assets/ddc2259a-6298-494e-9225-d5ae5fbbe4c6" height="300">
 </div>
 
 
